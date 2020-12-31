@@ -14,7 +14,7 @@
 
 
 | Dataset      | 类型标注 | 全路况   | 路边界   | Occlusion| 图片数量 | 来源 |
-|----|----     | 
+| --- | --- |
 | KITT         | N       | N       |  N      | N     | 191       |[公开](https://github.com/TuSimple/tusimple-benchmark) |
 | ELAS         | Y       | N       |  N      | N     | 1.5000w   |[公开](http://www.lcad.inf.ufes.br/wiki/index.php/Ego-Lane_Analysis_System#Dataset)|
 | Caltech      | Y       | N       |  N      | N     |  0.1225w  |[加州理工公开](http://www.mohamedaly.info/datasets/caltech-lanes)|
