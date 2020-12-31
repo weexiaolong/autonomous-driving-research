@@ -9,7 +9,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 
 | Dataset       | Country	   | Classes   | TS Scenes  | TS Images| Year   |
-|----|----      |              
+| :---          |    :---:     |   :---:   |    :---:   | :---:    |  ---:  |           
 | GTSDRB        | Germany      | 43        |  9000      | 51839    | 2013   |
 | KULD          | Belgium      | 100+      |  9006      | 13444    | 2009   |
 | STSD 	        | Sweden       | 7         |  20000     | 3488     | 2011   |
